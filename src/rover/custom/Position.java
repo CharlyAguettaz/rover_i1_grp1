@@ -1,7 +1,8 @@
-package rover;
+package rover.custom;
+
 import java.util.Arrays;
 
-class Position {
+public class Position {
 
     public int x;
     public int y;

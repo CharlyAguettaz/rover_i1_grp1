@@ -1,5 +1,5 @@
 package rover;
-
+import rover.custom.*;
 
 class Main {
   public static void main(String[] args) {
