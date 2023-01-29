@@ -26,4 +26,8 @@ class Main {
     interfaceController.executeCommands(commands);
     System.out.println(interfaceController.toString());
   }
+  
+  // les fonctions pour gérer le mouvement sont un peu complexe et aurait mérité d'être géré dans plusieurs class
+  // Un class pour le mouvement, le cardinal etc
+  
 }
